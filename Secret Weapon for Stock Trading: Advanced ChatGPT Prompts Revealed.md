@@ -1,6 +1,6 @@
 # Your Secret Weapon for Stock Trading: Advanced ChatGPT Prompts Revealed
 - https://www.learnprompt.org/chatgpt-prompts-for-stock-trading/
-These prompts help clarify fundamental and advanced trading concepts, as well as market operations.
+- These prompts help clarify fundamental and advanced trading concepts, as well as market operations.
 Explain Core Concept Simply:
 Explain the concept of [Stock Market Term, e.g., 'short selling' or 'market capitalization'] in simple terms, as if explaining to a beginner.
 Deep Dive into a Concept/Metric:
