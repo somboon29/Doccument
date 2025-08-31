@@ -1,5 +1,5 @@
 # What are the Best Trading Strategies?
-# Here are the top 15 trading strategies for traders, covering a wide range of markets and goals, whether you prefer short-term or long-term trading.
+### Here are the top 15 trading strategies for traders, covering a wide range of markets and goals, whether you prefer short-term or long-term trading.
 
 News Trading Strategy
 
